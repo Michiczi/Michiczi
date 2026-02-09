@@ -22,4 +22,4 @@ I'm **Michał**, a 5th-year Software Development student from Poland with 4 year
 ### 📫 How to reach me
 - **Email:** [kardasz.michal2006@gmail.com](mailto:kardasz.michal2006@gmail.com)
 - **LinkedIn:** [in/michalkardasz1](https://www.linkedin.com/in/michalkardasz1/)
-- *I try to reply as fast as humanly possible!*
+*I try to reply as fast as humanly possible!*
